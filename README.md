@@ -1,6 +1,7 @@
 # esp32.local
-Version 1.0.1 du Serveur web ESP32 avec le capteur DHT11 ou DHT22 qui affiche la température et l’humidité.
+Serveur web ESP32 avec le capteur DHT11 ou DHT22 qui affiche la **température** et l’**humidité**.
 
+    stuff
 Le serveur Web peut mettre à jour les lectures des mesures sans nécessiter le rafraîchissement de la page Web. 
 
 Projet de fin d'études, ça fait partie de mes travaux de recherche et de coception pour l’université.
