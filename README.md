@@ -5,4 +5,4 @@ Le serveur Web peut mettre à jour les lectures des mesures sans nécessiter le 
 
 Projet de fin d'études, ça fait partie de mes travaux de recherche et de coception pour l’université.
 
-Réda @USTHB 2024
+Réda @ 2024 USTHB, University.
